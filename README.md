@@ -17,13 +17,17 @@ Expected Output: Monthly payment (M)
 2.Enter the loan details as prompted by the application:
 
 Select the loan type (personal or house loan).
+
 *Enter the loan amount (within the specified minimum and maximum loan amounts).
+
 *Enter the loan duration (within the specified minimum and maximum loan durations).
+
 3.The application will calculate the monthly installment based on the provided details and display the result.
 
 4.You can repeat the process to calculate installments for different loan scenarios.
-# Examples
 
+
+# Examples
 # Personal Loan Calculation
 Loan Amount: 2000
 Loan Duration: 3 Years
