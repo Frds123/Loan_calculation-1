@@ -29,11 +29,17 @@ Select the loan type (personal or house loan).
 
 # Examples
 # Personal Loan Calculation
+
 .Loan Amount: 2000
+
 .Loan Duration: 3 Years
+
 .Monthly Installment: 60.27
 
 # House Loan Calculation
+
 .Loan Amount: 100000
+
 .Loan Duration: 10 Years
+
 .Monthly Installment: 887.5
