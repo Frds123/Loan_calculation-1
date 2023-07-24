@@ -9,7 +9,7 @@ Expected Output: Monthly payment (M)
 .Calculate monthly installments for house loans
 .Supports different loan amounts, interest rates, and loan durations
 .Provides accurate results based on the given inputs
-#Requirements
+# Requirements
 .Python 3.x
 # Uses
 1.Launch the application by running the loan_calculator.py file.
@@ -29,11 +29,11 @@ Select the loan type (personal or house loan).
 
 # Examples
 # Personal Loan Calculation
-Loan Amount: 2000
-Loan Duration: 3 Years
-Monthly Installment: 60.27
+.Loan Amount: 2000
+.Loan Duration: 3 Years
+.Monthly Installment: 60.27
 
 # House Loan Calculation
-Loan Amount: 100000
-Loan Duration: 10 Years
-Monthly Installment: 887.5
+.Loan Amount: 100000
+.Loan Duration: 10 Years
+.Monthly Installment: 887.5
