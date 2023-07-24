@@ -1,4 +1,4 @@
-# Loan_calculation-1
+# Loan_calculation-personal loan and House loan
 Sure! Here's an example of a README file for your loan calculation app:
 # Loan Calculation App
 Verify that the loan calculation system correctly calculates the monthly payment for a given loan amount, interest rate, and loan term.
